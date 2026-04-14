@@ -1,0 +1,15 @@
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\bin\Debug\net8.0\C#(Array,String,Loops).exe
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\bin\Debug\net8.0\C#(Array,String,Loops).deps.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\bin\Debug\net8.0\C#(Array,String,Loops).runtimeconfig.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\bin\Debug\net8.0\C#(Array,String,Loops).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\bin\Debug\net8.0\C#(Array,String,Loops).pdb
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).AssemblyInfoInputs.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).AssemblyInfo.cs
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).csproj.CoreCompileInputs.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).sourcelink.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\refint\C#(Array,String,Loops).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).pdb
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\C#(Array,String,Loops).genruntimeconfig.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\C#(Array,String,Loops)\C#(Array,String,Loops)\obj\Debug\net8.0\ref\C#(Array,String,Loops).dll
