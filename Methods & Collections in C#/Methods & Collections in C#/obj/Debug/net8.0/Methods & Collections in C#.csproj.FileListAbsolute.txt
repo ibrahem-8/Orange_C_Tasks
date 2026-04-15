@@ -1,0 +1,15 @@
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\bin\Debug\net8.0\Methods & Collections in C#.exe
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\bin\Debug\net8.0\Methods & Collections in C#.deps.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\bin\Debug\net8.0\Methods & Collections in C#.runtimeconfig.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\bin\Debug\net8.0\Methods & Collections in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\bin\Debug\net8.0\Methods & Collections in C#.pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.AssemblyInfoInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.AssemblyInfo.cs
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.sourcelink.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\refint\Methods & Collections in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\Methods & Collections in C#.genruntimeconfig.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Methods & Collections in C#\Methods & Collections in C#\obj\Debug\net8.0\ref\Methods & Collections in C#.dll
