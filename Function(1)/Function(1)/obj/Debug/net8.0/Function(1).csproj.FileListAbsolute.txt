@@ -1,0 +1,15 @@
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\bin\Debug\net8.0\Function(1).exe
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\bin\Debug\net8.0\Function(1).deps.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\bin\Debug\net8.0\Function(1).runtimeconfig.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\bin\Debug\net8.0\Function(1).dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\bin\Debug\net8.0\Function(1).pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).AssemblyInfoInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).AssemblyInfo.cs
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).csproj.CoreCompileInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).sourcelink.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\refint\Function(1).dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\Function(1).genruntimeconfig.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Function(1)\Function(1)\obj\Debug\net8.0\ref\Function(1).dll
