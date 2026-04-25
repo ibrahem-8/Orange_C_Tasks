@@ -1,0 +1,15 @@
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\bin\Debug\net8.0\Object-Oriented Programming (OOP) in C#.exe
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\bin\Debug\net8.0\Object-Oriented Programming (OOP) in C#.deps.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\bin\Debug\net8.0\Object-Oriented Programming (OOP) in C#.runtimeconfig.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\bin\Debug\net8.0\Object-Oriented Programming (OOP) in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\bin\Debug\net8.0\Object-Oriented Programming (OOP) in C#.pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.AssemblyInfoInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.AssemblyInfo.cs
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.sourcelink.json
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\refint\Object-Oriented Programming (OOP) in C#.dll
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.pdb
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\Object-Oriented Programming (OOP) in C#.genruntimeconfig.cache
+C:\Users\Ibrahem Abu Othman\source\repos\Orange_C_Tasks\Object-Oriented Programming (OOP) in C#\Object-Oriented Programming (OOP) in C#\obj\Debug\net8.0\ref\Object-Oriented Programming (OOP) in C#.dll
