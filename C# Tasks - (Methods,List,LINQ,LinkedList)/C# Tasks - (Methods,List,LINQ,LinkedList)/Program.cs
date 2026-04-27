@@ -225,3 +225,247 @@
 ///////////////////////////////////////////////////////////////////////////
 //*Task 21
 
+//List<int> list1 = new List<int> { 1, 2, 3, 4, 5 };
+//List<int> list2 = new List<int> { 3, 4, 5, 6, 7 };
+
+//var commonNumbers = list1.Intersect(list2);
+
+//Console.WriteLine("Common numbers:");
+//foreach (var num in commonNumbers)
+//{
+//    Console.WriteLine(num);
+//}
+
+///////////////////////////////////////////////////////////////////////////
+//*Task 22 + 23
+
+//List<int> list1 = new List<int> { 1, 2, 3 };
+//List<int> list2 = new List<int> { 3, 4, 5 };
+
+//var mergedList = list1.Concat(list2).Distinct();
+
+//Console.WriteLine("Merged List: ");
+//foreach (var num in mergedList)
+//{
+//    Console.WriteLine(num);
+//}
+
+//////////////////////////////////////////////////////////////////////////////
+//*Task 24
+
+//Dictionary<int, string> dict = new Dictionary<int, string>
+//        {
+//            {1, "Apple"},
+//            {2, "Banana"},
+//            {3, "Orange"}
+//        };
+
+//List<string> valuesList = dict.Values.ToList();
+
+//Console.WriteLine("Values in List:");
+//foreach (var value in valuesList)
+//{
+//    Console.WriteLine(value);
+//}
+
+////////////////////////////////////////////////////////////////////////////
+//*Task 25
+
+//Dictionary<string, int> dict = new Dictionary<string, int>
+//        {
+//            {"A", 50},
+//            {"B", 120},
+//            {"C", 200},
+//            {"D", 80}
+//        };
+
+//var filteredDict = dict.Where(x => x.Value > 100).ToDictionary(x => x.Key, x => x.Value);
+
+//foreach (var item in filteredDict)
+//{
+//    Console.WriteLine($"{item.Key} : {item.Value}");
+//}
+
+////////////////////////////////////////////////////////////////////////////
+//*Task 26
+
+//List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
+//int target = 30;
+
+//bool found = false;
+
+//foreach (var num in numbers)
+//{
+//    if (num == target)
+//    {
+//        found = true;
+//        break;
+//    }
+//}
+
+//if (found)
+//    Console.WriteLine("Number found");
+//else
+//    Console.WriteLine("Number not found");
+
+/////////////////////////////////////////////////////////////////////////
+//*Task 27
+
+//List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
+
+//int countEven = 0;
+
+//foreach (var num in numbers)
+//{
+//    if (num % 2 == 0)
+//    {
+//        countEven++;
+//    }
+//}
+
+//Console.WriteLine("Even numbers count: " + countEven);
+
+//////////////////////////////////////////////////////////////////////////
+//*Task 29
+
+//List<int> numbers = new List<int> { 10, 5, 20, 8, 15 };
+
+//int max = numbers[0];
+//int secondMax = numbers[0];
+
+//foreach (var num in numbers)
+//{
+//    if (num > max)
+//    {
+//        secondMax = max;
+//        max = num;
+//    }
+//    else if (num > secondMax && num != max)
+//    {
+//        secondMax = num;
+//    }
+//}
+
+//Console.WriteLine("Second Largest: " + secondMax);
+
+//////////////////////////////////////////////////////////////////////
+//*Task 1
+
+//int[] numbers = { 1, 3, 2, 3, 4, 3, 2, 1, 3 };
+
+//int maxCount = 0;
+//int mostFrequent = numbers[0];
+
+//for (int i = 0; i < numbers.Length; i++)
+//{
+//    int count = 0;
+
+//    for (int j = 0; j < numbers.Length; j++)
+//    {
+//        if (numbers[i] == numbers[j])
+//        {
+//            count++;
+//        }
+//    }
+
+//    if (count > maxCount)
+//    {
+//        maxCount = count;
+//        mostFrequent = numbers[i];
+//    }
+//}
+
+//Console.WriteLine("Most frequent number: " + mostFrequent);
+//Console.WriteLine("Count: " + maxCount);
+
+//////////////////////////////////////////////////////////////////////
+//*Task 3
+
+//int[] arr = { 1, 2, 3, 2, 1 };
+
+//bool isMirror = true;
+
+//for (int i = 0; i < arr.Length / 2; i++)
+//{
+//    if (arr[i] != arr[arr.Length - 1 - i])
+//    {
+//        isMirror = false;
+//        break;
+//    }
+//}
+
+//Console.WriteLine(isMirror ? "True" : "False");
+
+///////////////////////////////////////////////////////////////////////
+//*Task 4
+
+//int[] arr = { 1, 2, 4, 5 };
+
+//int missing = -1;
+
+//for (int i = 1; i <= arr.Length + 1; i++)
+//{
+//    bool found = false;
+
+//    for (int j = 0; j < arr.Length; j++)
+//    {
+//        if (arr[j] == i)
+//        {
+//            found = true;
+//            break;
+//        }
+//    }
+
+//    if (!found)
+//    {
+//        missing = i;
+//        break;
+//    }
+//}
+
+//Console.WriteLine("Missing Number: " + missing);
+
+/////////////////////////////////////////////////////////////////////////
+//*Task 8
+
+//int[] arr = { 3, 1, 2, 4, 7, 6, 5 };
+
+//List<int> evens = new List<int>();
+//List<int> odds = new List<int>();
+
+//for (int i = 0; i < arr.Length; i++)
+//{
+//    if (arr[i] % 2 == 0)
+//        evens.Add(arr[i]);
+//    else
+//        odds.Add(arr[i]);
+//}
+
+//List<int> result = new List<int>();
+//result.AddRange(evens);
+//result.AddRange(odds);
+
+//Console.WriteLine(string.Join(", ", result));
+
+/////////////////////////////////////////////////////////////////////////////
+//*Task 11
+
+//int[] arr = { 0, 1, 0, 3, 12 };
+
+//int insertPos = 0;
+
+//for (int i = 0; i < arr.Length; i++)
+//{
+//    if (arr[i] != 0)
+//    {
+//        arr[insertPos] = arr[i];
+//        insertPos++;
+//    }
+//}
+
+//for (int i = insertPos; i < arr.Length; i++)
+//{
+//    arr[i] = 0;
+//}
+
+//Console.WriteLine(string.Join(", ", arr));

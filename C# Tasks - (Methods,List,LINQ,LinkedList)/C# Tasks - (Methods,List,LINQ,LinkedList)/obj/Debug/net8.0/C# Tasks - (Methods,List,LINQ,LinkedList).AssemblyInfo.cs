@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Tasks - (Methods,List,LINQ,LinkedList)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af4af934bbb1b7a5e7d954d1134827486fe24dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a00e0130f32a6087e104b4f4a6d560b437e806")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Tasks - (Methods,List,LINQ,LinkedList)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Tasks - (Methods,List,LINQ,LinkedList)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
